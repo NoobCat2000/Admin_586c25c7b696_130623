@@ -1,0 +1,326 @@
+{
+   "checksum": "c00494cca748f6c3f64cc410ec2ab11a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13331019416677917",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "custom_root": {
+         "pinboard": {
+            "children": [  ],
+            "date_added": "13331019416678081",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-a000-000000000907",
+            "id": "7",
+            "name": "Pinboard",
+            "type": "folder"
+         },
+         "speedDial": {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13331019417389475",
+                  "date_last_used": "0",
+                  "guid": "9f031681-41d1-4516-8730-b258a13f7a53",
+                  "id": "11",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/e1db847af0a87787f307ee6942ed7d643488d419.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/3a07ed8977c2b792f3940924aaac029238f92e71.png",
+                     "imageDataType": "2",
+                     "imageID": "E647B15ABE8EB7A0669584D81C1D72BAA1F862B57E589D11F4E2E7AB6D065009",
+                     "imageType": "2",
+                     "impression_url": "",
+                     "nav_timestamp": "1.686545817741451e+12",
+                     "partner_id": "booking_com_vn",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/3a07ed8977c2b792f3940924aaac029238f92e71.png",
+                     "partner_url": "https://www.booking.com/index.html?aid=348858&label=operasoft-sdO15-348858&utm_source=Opera&utm_medium=web&utm_campaign=sdO15",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/booking_com_vn",
+                     "replaceability": "0",
+                     "revision": "20230519",
+                     "server_position": "1"
+                  },
+                  "name": "Booking.com",
+                  "type": "url",
+                  "url": "https://www.booking.com/"
+               }, {
+                  "date_added": "13331019417390544",
+                  "date_last_used": "0",
+                  "guid": "ef181432-0277-44f8-be83-828bd16fe06a",
+                  "id": "12",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/b189f6ad04d571890f02d63d295ae3815bc60d64.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/7f7f24d59ae6c9f584a9d494b23027933fda169a.png",
+                     "imageDataType": "2",
+                     "imageID": "B90AB9E80FDD4C95038EBDFE11BC7C7C532FD38CD3816EA666EDAC5D8CECFBFF",
+                     "imageType": "2",
+                     "impression_url": "",
+                     "nav_timestamp": "1.686545817741451e+12",
+                     "partner_id": "facebook_vn",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/7f7f24d59ae6c9f584a9d494b23027933fda169a.png",
+                     "partner_url": "https://www.facebook.com/",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/facebook_vn",
+                     "replaceability": "0",
+                     "revision": "20171003",
+                     "server_position": "2"
+                  },
+                  "name": "Facebook",
+                  "type": "url",
+                  "url": "http://www.facebook.com/"
+               }, {
+                  "date_added": "13331019417393038",
+                  "date_last_used": "0",
+                  "guid": "7d4c2732-0ed2-4794-82b9-905ef1451f73",
+                  "id": "13",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/4000e8f5274d71bb86e385b2c9d21dff103aa6eb.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/c285a78eec4d0476e8547e9f442abc2cd785811e.png",
+                     "imageDataType": "2",
+                     "imageID": "2D1B7691CD92880B350D2D7090035AB23BB67DA70789387865F573DE15D278FC",
+                     "imageType": "2",
+                     "impression_url": "",
+                     "nav_timestamp": "1.686545817741451e+12",
+                     "partner_id": "vnexpress_vn",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/c285a78eec4d0476e8547e9f442abc2cd785811e.png",
+                     "partner_url": "http://www.vnexpress.net/?utm_source=OperaSpeedDial&utm_medium=Browser&utm_campaign=Opera",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/vnexpress_vn",
+                     "replaceability": "0",
+                     "revision": "20171003",
+                     "server_position": "3"
+                  },
+                  "name": "VnExpress",
+                  "type": "url",
+                  "url": "http://www.vnexpress.net/"
+               }, {
+                  "date_added": "13331026986740893",
+                  "date_last_used": "0",
+                  "guid": "0ad5ef7e-bc46-4e45-8dd5-ed04f9e5e6d8",
+                  "id": "22",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/9aca7591a86b8283dda0d550d987a043115b1191.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/9225a5043005de70d83583064468457c17a5c685.png",
+                     "imageDataType": "2",
+                     "imageID": "B5997E1FF96C409B3D9861A7D3579ABB80B24B4DC8EE8EDFBFF377977F0D9BAD",
+                     "imageType": "2",
+                     "impression_url": "",
+                     "nav_timestamp": "1.686553387011789e+12",
+                     "partner_id": "yahoo_vn",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/9225a5043005de70d83583064468457c17a5c685.png",
+                     "partner_url": "https://searchoper.com/?a=gsp_opera_00_00_ssg02",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/yahoo_vn",
+                     "replaceability": "0",
+                     "revision": "20171003",
+                     "server_position": "5"
+                  },
+                  "name": "Yahoo! Việt Nam",
+                  "type": "url",
+                  "url": "http://vn.yahoo.com/"
+               }, {
+                  "date_added": "13331026986741913",
+                  "date_last_used": "0",
+                  "guid": "865f1da0-1cb4-4704-b2a3-92bc11bf9c06",
+                  "id": "23",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/07e860a4a94238e0a3b73c1428dc22b59ddff642.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/d7cb792b099119fe0196e31b8eb8617de8c8f201.png",
+                     "imageDataType": "2",
+                     "imageID": "EE69931080479B52C327B7D24113F1C51D03D9AFFC4EA1ABF175885A3D6AC7BF",
+                     "imageType": "2",
+                     "impression_url": "",
+                     "nav_timestamp": "1.686553387011789e+12",
+                     "partner_id": "amazon_vn",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/d7cb792b099119fe0196e31b8eb8617de8c8f201.png",
+                     "partner_url": "https://www.amazon.sg/?&linkCode=ll2&tag=operadesktops-22&linkId=b1373c56e61cdd561dc0ff7d9c856446&ref_=as_li_ss_tl",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/amazon_vn",
+                     "replaceability": "0",
+                     "revision": "20211203",
+                     "server_position": "6"
+                  },
+                  "name": "Amazon",
+                  "type": "url",
+                  "url": "https://www.amazon.sg/"
+               }, {
+                  "date_added": "13331026986743833",
+                  "date_last_used": "0",
+                  "guid": "2905d812-64cc-45ba-b7f9-d8b6214eaa5a",
+                  "id": "24",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/80cc9157023974d38a7b9483641ad5453b1a53bd.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/96cbd9f43946756c23d70d2d61804a77cb1e301a.png",
+                     "imageDataType": "2",
+                     "imageID": "2B0AECCC077DEBAB480F311309A481544DCD0DC7D543F21996386894A43BEF3E",
+                     "imageType": "2",
+                     "impression_url": "",
+                     "nav_timestamp": "1.686553387011789e+12",
+                     "partner_id": "worldofwarships_vn",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/96cbd9f43946756c23d70d2d61804a77cb1e301a.png",
+                     "partner_url": "https://track.wargaming-aff.com/click?pid=2435&offer_id=52&sub1=OperaVN",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/worldofwarships_vn",
+                     "replaceability": "0",
+                     "revision": "20220805",
+                     "server_position": "10"
+                  },
+                  "name": "World of Warships",
+                  "type": "url",
+                  "url": "https://worldofwarships.eu/"
+               }, {
+                  "date_added": "13331026986745511",
+                  "date_last_used": "0",
+                  "guid": "9e1d80c3-d1be-4ad6-a884-d0c4f8bb5246",
+                  "id": "25",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/b22a9e84c4e60e6421b672d01d49203d3f8590a3.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/40d0c82727242b58bbe46a32668191afad95e0d6.png",
+                     "imageDataType": "2",
+                     "imageID": "92A67C316440B79FEFB62DFF62284C25C60F3D9F871DFB12FC528ABE8ED5EEF9",
+                     "imageType": "2",
+                     "impression_url": "",
+                     "nav_timestamp": "1.686553387011789e+12",
+                     "partner_id": "agoda_vn",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/40d0c82727242b58bbe46a32668191afad95e0d6.png",
+                     "partner_url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1753802&hl=vi-vn",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/agoda_vn",
+                     "replaceability": "0",
+                     "revision": "20220708",
+                     "server_position": "13"
+                  },
+                  "name": "Agoda",
+                  "type": "url",
+                  "url": "https://www.agoda.com/"
+               }, {
+                  "date_added": "13331026986747154",
+                  "date_last_used": "0",
+                  "guid": "898ebe6d-e961-46ce-b6ec-0f19c990c5d2",
+                  "id": "26",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/05617c3dc8fc2eb8ddc84b37bec9d9f24171f376.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/357e67fbe70aca70be251ab6f315df5df594500c.png",
+                     "imageDataType": "2",
+                     "imageID": "2FC1809E63C60C94A0810C41221FA9EF79F436FBF0ACEC4695D2B594765EAECC",
+                     "imageType": "2",
+                     "impression_url": "",
+                     "nav_timestamp": "1.686553387011789e+12",
+                     "partner_id": "aliexpress_vn",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/357e67fbe70aca70be251ab6f315df5df594500c.png",
+                     "partner_url": "https://s.click.aliexpress.com/e/_Dl025Y7",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/aliexpress_vn",
+                     "replaceability": "0",
+                     "revision": "20230320",
+                     "server_position": "14"
+                  },
+                  "name": "AliExpress",
+                  "type": "url",
+                  "url": "https://www.aliexpress.com/"
+               }, {
+                  "date_added": "13331026986748016",
+                  "date_last_used": "0",
+                  "guid": "6a218f64-4f06-4a1f-a3c5-0b0653b1ad92",
+                  "id": "27",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/2f61c972b948eb025feae581e5f169fe298181b7.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/230b3330419cc51a91a1efb38591715b5a9b3d8a.png",
+                     "imageDataType": "2",
+                     "imageID": "ADCA1509F7DB3AAA06E2D9F4B3A3E3709E4948BF0CB5D5CE55C3D96EF5413E28",
+                     "imageType": "2",
+                     "impression_url": "",
+                     "nav_timestamp": "1.686553387011789e+12",
+                     "partner_id": "instagram_vn",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/230b3330419cc51a91a1efb38591715b5a9b3d8a.png",
+                     "partner_url": "https://www.instagram.com/",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/instagram_vn",
+                     "replaceability": "0",
+                     "revision": "20220708",
+                     "server_position": "16"
+                  },
+                  "name": "Instagram",
+                  "type": "url",
+                  "url": "https://www.instagram.com/"
+               } ],
+               "date_added": "13331019417260030",
+               "date_last_used": "0",
+               "date_modified": "13331026986748016",
+               "guid": "ba7a774e-13f0-4df6-abbc-cd395c0603ee",
+               "id": "10",
+               "meta_info": {
+                  "speed_dial_root_folder_guid": "6e0e0acd-0a73-4ce1-8c20-8495e169b636"
+               },
+               "name": "DESKTOP-VQRUUG3",
+               "type": "folder"
+            } ],
+            "date_added": "13331019416678075",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-a000-000000000904",
+            "id": "6",
+            "name": "Speed Dials",
+            "type": "folder"
+         },
+         "trash": {
+            "children": [  ],
+            "date_added": "13331019416678089",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-a000-000000000905",
+            "id": "9",
+            "name": "Trash",
+            "type": "folder"
+         },
+         "unsorted": {
+            "children": [  ],
+            "date_added": "13331019416678069",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-a000-000000000901",
+            "id": "4",
+            "name": "Unsorted bookmarks",
+            "type": "folder"
+         },
+         "unsyncedPinboard": {
+            "children": [  ],
+            "date_added": "13331019416678087",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-a000-000000000908",
+            "id": "8",
+            "name": "Unsynchronized Pinboard",
+            "type": "folder"
+         },
+         "userRoot": {
+            "children": [  ],
+            "date_added": "13331019416678073",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-a000-000000000902",
+            "id": "5",
+            "name": "Other bookmarks",
+            "type": "folder"
+         }
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13331019416677927",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Imported bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13331019416677928",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

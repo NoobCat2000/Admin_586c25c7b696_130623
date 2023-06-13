@@ -1,0 +1,3 @@
+C:\Users\Admin\.repo\Admin_586c25c7b696_130623\browser\Google\Chrome\User Data\Local State
+C:\Users\Admin\.repo\Admin_586c25c7b696_130623\browser\Microsoft\Edge\User Data\Local State
+C:\Users\Admin\.repo\Admin_586c25c7b696_130623\browser\Opera Software\Opera Stable\Local State

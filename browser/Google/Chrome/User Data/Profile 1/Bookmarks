@@ -1,0 +1,99 @@
+{
+   "checksum": "4d411813e0f82e335dcdd71536c1ef61",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13305651750486381",
+            "date_last_used": "0",
+            "guid": "c9c7d4ce-8f01-4e64-a54e-152d59978543",
+            "id": "5",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13305651750489027",
+            "date_last_used": "13322128213209008",
+            "guid": "7d1b0370-fc61-4d1a-a1d1-f6ed25a6198d",
+            "id": "6",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13305651750489937",
+            "date_last_used": "0",
+            "guid": "ffe5f467-891c-474d-ac3e-9281dd07c2bf",
+            "id": "7",
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13305651752570034",
+            "date_last_used": "0",
+            "guid": "896e878a-7c7c-4c8c-811d-7ea822abca50",
+            "id": "8",
+            "name": "Translate",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "date_added": "13326337418070587",
+            "date_last_used": "13326337419890552",
+            "guid": "b14c6fec-0750-4410-afda-0b3f8d7a9d0a",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "CyberChef",
+            "type": "url",
+            "url": "file:///C:/Users/dmcoc/Desktop/Desktop/Rev%20Tools/CyberChef/CyberChef_v10.4.0.html"
+         }, {
+            "date_added": "13330530219161137",
+            "date_last_used": "0",
+            "guid": "2c2c3548-d956-4cc7-9085-5f081dfcd51e",
+            "id": "11",
+            "name": "#spidermanintothespiderverse",
+            "type": "url",
+            "url": "https://www.youtube.com/hashtag/spidermanintothespiderverse"
+         }, {
+            "date_added": "13330628861682592",
+            "date_last_used": "0",
+            "guid": "ed8bdb69-ef8e-443f-9a31-4b78270c42b1",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ELF Malware Analysis 101: Part 3 - Advanced Analysis",
+            "type": "url",
+            "url": "https://intezer.com/blog/malware-analysis/elf-malware-analysis-101-part-3-advanced-analysis/"
+         } ],
+         "date_added": "13330420058684528",
+         "date_last_used": "0",
+         "date_modified": "13330628861682592",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Thanh dấu trang",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13330420058684530",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Dấu trang khác",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13330420058684532",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Dấu trang trên thiết bị di động",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Cu8BCswBCIiBAhLFARI8CAISOAoGCgJibRABEDMaEgmAB+dUk/0FACGAB+dUk/0FADIYChYIAhEUm9Zkk/0FABgAIQAAAAAAAAAAIACSAX0KNAoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJNrPWZJP9BQARNrPWZJP9BQApCdjXZJP9BQAKRQoWYW5ub3RhdGlvbl9jaHJvbWVfc3luYxIFNTEhYmQaEgmAnKFfk/0FABGAnKFfk/0FACmArtZkk/0FADCAuYb9tbL/AroBAggBEgAgASoYNVppYUM0dWYreXBwTHZUR3FCa3RBdz09SAMSwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp5T0N0VkxVZEhFaEpOY1pjNkxMRDk3dEwvVXJiRS9VVUVRSC8zN0c5WUgzYnlaRE00enY0UzIxUGNXaW5XaENidUdCdW9rNGo5Q29BNkp1Zng1MUZYTisxZzlxQT09GAAgACgAMPrjx6TAq/8COABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp5dVpEaFRaQXhzZGlBc1VrbncwVG1PdldsVUlicnBXOWdYaFJrb0VkZytFM1JmZzhLTmFjZ2N6ZTVTT1pLNDd4ZGoyL2pzRkpkRCtudnVCdDEyQTZZV3lDMFBHZz09GAAgACgAMPrjx6TAq/8COABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAS6wEIBRLmAQocWnRWYy8wVFhrdFNMSWNXN1NMOFNOVlM3ZjJZPRJmWjpBRHF0QVp6MVR2bzhKL0xlOW1XczVGSkxkTHBzQUdEZEYwUndxU2JKMFFXWURTbW5NWnVlL2hwWThKaEZ1SHRCYktDcXB6UmV4VU9oSFB0VlI1amhXNmE0QUttaEVnNTJrQT09GAAgAigCMPjK5abAq/8COMKhvq+sMEDt2frRiDFKHDRidEhEMzVCdlN4YTdtalQ3N0ttU2RNMnh5TT1aHiIcRE5zYmZGcHR5SFcwSkVTSStrZjIvMWNxYnJJPWWLoIzREqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFaeVQwMlpJSUxNalVaQjFMVktrdEVWZnR1RWRBQ2ovTFFNNy9BNlV2MXQ5Z3dWbTBPaVJiL2pnWG5jWDIranF4Nm11WlgwQxgAIAAoADD648ekwKv/AjgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEuwBCAgS5wEKHGZjL2kyU0U4dXlhUVRQdXgwdThjQ0Q4bVBoZz0SZlo6QURxdEFaejFUdm84Si9MZTltV3M1RkpMZExwc1VEbS9LVWY4T2tNSjd1dGZjOHlFOG5pdjcrd05VZGdrTFJ1eVk4eE52RExaOGNkeDVpNFR4MjBIS1RyZUYwSGRxV21pUWc9PRgAIAIoAjD4yuWmwKv/AjjEob6vrDBA7tn60YgxShxTSlBkb1hyc2k5cU1XcmVLMm5jM2hydXpyVzg9Wh8iHdkwdWQxU1Y4SjcwMUdGMTFXc29yTWpOSWtTMWs9ZcXPkAES7QEICxLoAQocZnlHckRSRlpmZXRqRjcwVnZpcTM3Q0p5UWlvPRJmWjpBRHF0QVp6MVR2bzhKL0xlOW1XczVGSkxkTHBzNlpoclFJbVdqR2ZZc3RpSHpUWjdzRFNFemlNckVWeitibUg0VEVvaWtsK3dCVkxURG5FVWc0NDcxVjB6K2ZBYkFVU3lodz09GAAgASgBMOq8vrDarv8COJqZuYaJMUCambmGiTFKHHEydFNiVm5uUXRqckd4NlhrT2psd1ZUMkRIRT1aICIe/9RtbXF6ZzJOR0FkbmtmaytJSFdWU2k4czFxcWM9ZQAAAAAS6wEIBhLmAQocWGJjZVVUbTZ5R1hISmFiS1hZR09KV3E5eW5JPRJmWjpBRHF0QVp6MVR2bzhKL0xlOW1XczVGSkxkTHBzWmtNQVJjNGNuMk9RNDJEdXNwWDlpamlkUXdJbkdjSGo0VTFvRnJlWUp6WUIyZlBuSDV4c3I1VnJBbDlQNUxNNmR5YnY3QT09GAAgAigCMPjK5abAq/8COMOhvq+sMEDt2frRiDFKHE93N01ibjFDRmVObGh1QXkzUHhyM1BUcG9Pcz1aHiIcZ0dZbTNLVTcwMXpKYUhXQjlVeW9sNTVPYTN3PWU4+TkzEuwBCAcS5wEKHER5cVZ4aEROZWdSTVI0WFNwUVNkaFRuZUpsST0SZlo6QURxdEFaejFUdm84Si9MZTltV3M1RkpMZExwc1RNK0hxVkU3WTduV2xpai9haWhGcjdKU2tDTkp5a0M2cVA1STFZT1NzOWdhNVozWDZxNGJMYkY0S1gxdWJFWllROUd2K2c9PRgAIAIoAjD4yuWmwKv/AjjDob6vrDBA7tn60YgxShxzTVZ6RjZiNVR2Q3RBM2EyZFpMVnN1LzM5SHM9Wh8iHbNjUWVVdDVqVVBjZlk4M053b1dMcHNiVTRLSmM9ZT1shRES7QEICRLoAQocNWFFZUtyYm5QQXEvZHNYQW1xTHhjM0FBOWFVPRJmWjpBRHF0QVp6MVR2bzhKL0xlOW1XczVGSkxkTHBzN2lPaTVpZE05TmZRSDhjQS9CZFBPd2JiWmxDVVBxekthRUtlZzBlZklGRTRRMUR1dTVwTzNTcHo1eGI3SU9TMDNISWdTZz09GAAgAigCMPjK5abAq/8CONf2lLf5MEDu2frRiDFKHEFmR3h6bjg1R29nUjhMS04yYmRjV0svc0NNYz1aICIe/6hCekplRFpBOFpndjlVY1ByWVkrR3czY1pTc2s9ZT0/Sj4S7QEIDRLoAQoceTdqVXZnNWZrUHFNYVNLbXdRNWZqTXZ4V3RNPRJmWjpBRHF0QVp6MVR2bzhKL0xlOW1XczVGSkxkTHBzVXlINDBueXU1VUxObTNzMGNiWHNadnhNQnBXQWVheFBoNGRMMVVHSDZjN2dBVUJtZCs4c1F2MWhRckpITWI1R3lXWERGdz09GAAgAigCMKuNpezJsf8COPPtvbWJMUD/7b21iTFKHFpNaXdsY1hYUmZ5MXYyQy9lYS9UR3lJMUdvUT1aICIe/+p4S21qUjJrbDIzV1FqM0VoZ2gvRTZQVTZJRHc9ZV5O4MkwATgA",
+   "version": 1
+}
